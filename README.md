@@ -1,14 +1,11 @@
 - 👋 Hi, I’m @infotechaji
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in buidling desktop and web applications ( PyQt5 and Django)
+- 🌱 I’m currently learning Django, Numpy.
+- 💞️ I’m looking to collaborate on building web applications.
+- 📫 How to reach me "infotechaji@gmail.com"
 
-<!---
-infotechaji/infotechaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
 I usually automate the boring stuffs .....
+My mission is to help people to solve their technical issues.
 
